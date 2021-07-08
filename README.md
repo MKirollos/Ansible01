@@ -1,11 +1,3 @@
 # Ansible01
 
-A sample code to issue one command to multiple Cisco devices.
-
-
-
-
-
-
-ssssssssssss
-ssssssssssss
+A sample code to issue one command to multiple Cisco devicessssssssssss
